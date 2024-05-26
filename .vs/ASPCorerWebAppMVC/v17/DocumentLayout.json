@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Asp.net\\ASPCorerWebAppMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0BCA20-F8A9-4EB1-BB7E-44278184D0D3}|ASPCorerWebAppMVC\\ASPCorerWebAppMVC.csproj|d:\\asp.net\\aspcorerwebappmvc\\aspcorerwebappmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0BCA20-F8A9-4EB1-BB7E-44278184D0D3}|ASPCorerWebAppMVC\\ASPCorerWebAppMVC.csproj|solutionrelative:aspcorerwebappmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0BCA20-F8A9-4EB1-BB7E-44278184D0D3}|ASPCorerWebAppMVC\\ASPCorerWebAppMVC.csproj|d:\\asp.net\\aspcorerwebappmvc\\aspcorerwebappmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB0BCA20-F8A9-4EB1-BB7E-44278184D0D3}|ASPCorerWebAppMVC\\ASPCorerWebAppMVC.csproj|solutionrelative:aspcorerwebappmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0BCA20-F8A9-4EB1-BB7E-44278184D0D3}|ASPCorerWebAppMVC\\ASPCorerWebAppMVC.csproj|d:\\asp.net\\aspcorerwebappmvc\\aspcorerwebappmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0BCA20-F8A9-4EB1-BB7E-44278184D0D3}|ASPCorerWebAppMVC\\ASPCorerWebAppMVC.csproj|solutionrelative:aspcorerwebappmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0BCA20-F8A9-4EB1-BB7E-44278184D0D3}|ASPCorerWebAppMVC\\ASPCorerWebAppMVC.csproj|d:\\asp.net\\aspcorerwebappmvc\\aspcorerwebappmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB0BCA20-F8A9-4EB1-BB7E-44278184D0D3}|ASPCorerWebAppMVC\\ASPCorerWebAppMVC.csproj|solutionrelative:aspcorerwebappmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0BCA20-F8A9-4EB1-BB7E-44278184D0D3}|ASPCorerWebAppMVC\\ASPCorerWebAppMVC.csproj|d:\\asp.net\\aspcorerwebappmvc\\aspcorerwebappmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB0BCA20-F8A9-4EB1-BB7E-44278184D0D3}|ASPCorerWebAppMVC\\ASPCorerWebAppMVC.csproj|solutionrelative:aspcorerwebappmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0BCA20-F8A9-4EB1-BB7E-44278184D0D3}|ASPCorerWebAppMVC\\ASPCorerWebAppMVC.csproj|d:\\asp.net\\aspcorerwebappmvc\\aspcorerwebappmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB0BCA20-F8A9-4EB1-BB7E-44278184D0D3}|ASPCorerWebAppMVC\\ASPCorerWebAppMVC.csproj|solutionrelative:aspcorerwebappmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0BCA20-F8A9-4EB1-BB7E-44278184D0D3}|ASPCorerWebAppMVC\\ASPCorerWebAppMVC.csproj|d:\\asp.net\\aspcorerwebappmvc\\aspcorerwebappmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB0BCA20-F8A9-4EB1-BB7E-44278184D0D3}|ASPCorerWebAppMVC\\ASPCorerWebAppMVC.csproj|solutionrelative:aspcorerwebappmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Asp.net\\ASPCorerWebAppMVC\\ASPCorerWebAppMVC\\Program.cs",
+              "RelativeDocumentMoniker": "ASPCorerWebAppMVC\\Program.cs",
+              "ToolTip": "D:\\Asp.net\\ASPCorerWebAppMVC\\ASPCorerWebAppMVC\\Program.cs",
+              "RelativeToolTip": "ASPCorerWebAppMVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:47:12.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Asp.net\\ASPCorerWebAppMVC\\ASPCorerWebAppMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "ASPCorerWebAppMVC\\appsettings.json",
+              "ToolTip": "D:\\Asp.net\\ASPCorerWebAppMVC\\ASPCorerWebAppMVC\\appsettings.json",
+              "RelativeToolTip": "ASPCorerWebAppMVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T16:44:54.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Asp.net\\ASPCorerWebAppMVC\\ASPCorerWebAppMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ASPCorerWebAppMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Asp.net\\ASPCorerWebAppMVC\\ASPCorerWebAppMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ASPCorerWebAppMVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:44:24.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Asp.net\\ASPCorerWebAppMVC\\ASPCorerWebAppMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ASPCorerWebAppMVC\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Asp.net\\ASPCorerWebAppMVC\\ASPCorerWebAppMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ASPCorerWebAppMVC\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T16:44:13.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Asp.net\\ASPCorerWebAppMVC\\ASPCorerWebAppMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASPCorerWebAppMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Asp.net\\ASPCorerWebAppMVC\\ASPCorerWebAppMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ASPCorerWebAppMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T16:44:01.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Asp.net\\ASPCorerWebAppMVC\\ASPCorerWebAppMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ASPCorerWebAppMVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Asp.net\\ASPCorerWebAppMVC\\ASPCorerWebAppMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ASPCorerWebAppMVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T16:43:53.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Asp.net\\ASPCorerWebAppMVC\\ASPCorerWebAppMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASPCorerWebAppMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Asp.net\\ASPCorerWebAppMVC\\ASPCorerWebAppMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ASPCorerWebAppMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T16:43:36.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
