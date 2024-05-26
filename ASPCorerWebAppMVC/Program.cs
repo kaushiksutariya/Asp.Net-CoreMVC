@@ -20,8 +20,11 @@ app.UseRouting();
 
 app.UseAuthorization();
 
+#region Convention based routing
+
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
+#endregion
 
 app.Run();
